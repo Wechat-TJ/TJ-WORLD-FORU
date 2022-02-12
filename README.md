@@ -4,7 +4,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 # 目录（160+）
 
-- [GitHub精选](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L23)
+- [GitHub精选](https://github.com/Wechat-TJ/TJ-WORLD-FORU/README.md#L23)
   -  [高颜值](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L25)
   -  [实战项目](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L42)
   -  [黑科技](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L76)
