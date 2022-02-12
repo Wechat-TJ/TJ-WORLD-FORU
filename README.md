@@ -5,19 +5,19 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 # 目录（160+）
 
 - [GitHub精选](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L23)
-  -  [高颜值](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L25)
-  -  [实战项目](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L42)
-  -  [黑科技](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L76)
-  -  [游戏至上](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L122)
+  -  [高颜值](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L25)
+  -  [实战项目](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L42)
+  -  [黑科技](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L76)
+  -  [游戏至上](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L122)
 
-- [效率软件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L136)
-  -  [IDEA插件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L138)
-  -  [浏览器插件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L156)
-  -  [编码助手](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L174)
+- [效率软件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L136)
+  -  [IDEA插件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L138)
+  -  [浏览器插件](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L156)
+  -  [编码助手](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L174)
 
-- [资源福利](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L193)
-  -  [免费资料](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L195)
-  -  [免费工具](https://github.com/Wechat-TJ/TJ-WORLD-FORU/edit/main/README.md#L215)
+- [资源福利](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L193)
+  -  [免费资料](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L195)
+  -  [免费工具](https://github.com/Wechat-TJ/TJ-WORLD-FORU/blob/main/README.md#L215)
 
 
 # GitHub精选
