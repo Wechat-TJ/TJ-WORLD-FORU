@@ -41,6 +41,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 实战项目
 
+- [分享一个Spring Boot + MyBatis Plus + Vue & Element的开源后台管理系统](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487359&idx=1&sn=82fc841a6b0addf17a195b74885e1589&chksm=fe1b0c4ec96c8558ba8c4624f7b04ef47088f30fbb92d399108cd549e25641e468c7e966b462#rd)
 - [基于Spring Cloud的微服务电商平台系统，这个项目手把手教你实现](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487267&idx=1&sn=263447f29334b56c26de78c6551703f8&chksm=fe1b0c12c96c85040abb7a18b7537e55a2abdd2a798a2bc1251bbeac6d1c4efcf5f435c578ce#rd)
 - [一个拿来即用的SpringBoot开源ERP系统，赶紧学习收藏了！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487048&idx=1&sn=008b91bc31097dc945c4ffb3429ef99a&chksm=fe1b0d79c96c846f0b7ba9ab3a6c37de2cfa9f1ed8ed4b842db94a62d81dde41ec4d57e09ddf#rd)
 - [竟然还有开源的公众号管理系统？快来瞅瞅 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486738&idx=1&sn=31763d1932d6d94489594d9031ad8d69&chksm=fe1b0e23c96c8735f847a9b8c9df2a3a02d91a3cdffd8f83522f2902e27880345077c0b0e297#rd)
@@ -75,6 +76,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 黑科技 
 
+- [程序猿情人节专用项目大集合~ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487392&idx=1&sn=8c3ed9913e0ff24c957cb81ce13a0bd6&chksm=fe1b0c91c96c858799c2f31047c198e73b577768ca261099d4791cb0d2468ab88064139aa40f#rd)
 - [可能是GitHub上最好用的文字语法校验工具](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487280&idx=1&sn=a33add94b6500b1b0ccb2a2649f81896&chksm=fe1b0c01c96c8517ecc8878b98d040d49ecc5b604c414afb0417107f660d04fb0fa4dbabfa6f#rd)
 - [实用！开源！生成朋友圈转发点赞截图小工具一枚！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487246&idx=1&sn=e7fa236be07111ae5726f4deb10793fe&chksm=fe1b0c3fc96c85298a5c7ff2dbdd915d2e5a722c0e17bc182a70ca550d2d93cfb257f9b602f0#rd)
 - [防撤回消息，微信QQ通用，让你再也不担心会错过别人的消息](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487227&idx=1&sn=39b37fb9d6dfcfb86e6bc163ea59d38f&chksm=fe1b0dcac96c84dc059c041780465013261341694b183edf0e6297b79fdba187d3f41f7664fc#rd)
@@ -155,6 +157,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 浏览器插件
 
+- [一个可以让你保持专注，用心生活，专心工作的绿色插件 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487371&idx=1&sn=63bbdc27ae2c058528281996524edb9c&chksm=fe1b0cbac96c85acd5bbd44481a84375487d94d527fa3d8ee3aa1d5994dd76f01024b1cc5e1c#rd)
 - [GitHub万星开源插件，音乐迷的福音，教你如何在浏览器中解锁歌曲](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487072&idx=1&sn=38899592761f6eeaf8bf467fc0289df4&chksm=fe1b0d51c96c8447839de6e6b9b18b61de06b403c57bfaf8067eaffede8bd0fbb06bb5ef9c76#rd)
 - [吊炸天的个性化卡片式标签页插件，谁用谁知道！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486961&idx=1&sn=2c567705a210369178edeba12170918e&chksm=fe1b0ec0c96c87d6e6cc2abc8b2e336b9e6decb21df2d94aeb6c1264ac7b1cd111384012d264#rd)
 - [小巧但强大，浏览器开发常用工具插件一枚](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486900&idx=1&sn=6da7876604308a9dcb594626724d576c&chksm=fe1b0e85c96c8793285954f0398eed47df0b71c4e5bf4601c1060d830f938bf31215d7df3d1a#rd)
@@ -173,6 +176,8 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 编码助手
 
+- [拿过大奖，使用MarkDown语法，究竟是怎么样的开源图表绘制工具？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487454&idx=1&sn=9bc2469d06069c3d9b8a5c43da3faaff&chksm=fe1b0cefc96c85f951cc6ccc56d760407b3eb314985629f6aa15c3ed140aecd58dd4026a45e4#rd)
+- [测试没做好？看看这个一站式开源测试平台MeterSphere](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487434&idx=1&sn=35f4c4b6b91fd5ee9610db495a8bb2d9&chksm=fe1b0cfbc96c85eddb51a24df5a5862fe259dfb14ec1413588c54d4856c1c460311919518427#rd)
 - [Mybatis自动生成工具，开发编码好帮手](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487193&idx=1&sn=eb66b9ec3a359beaa809a2010e57406a&chksm=fe1b0de8c96c84fed972ec95f59463ceb0a4d0317a98c4950d1c4d480bd447d08af4bd8721a8#rd)
 - [本周最流行的开源低代码编程工具一枚](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487091&idx=1&sn=40d2eece5151adf2b35f80280da9bbe7&chksm=fe1b0d42c96c8454a1a81b0ee841d20f09413aea8fb1b8b65ba6d0577c5e78cdde302f9af8b5#rd)
 - [不会JavaScript，也能写出各种精彩页面？看看这个开源低代码框架吧](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486787&idx=1&sn=117e35c5b3930f5296f152eec1f86ca3&chksm=fe1b0e72c96c876424f8cfcb776f6968192b9204e3f5adf0e2ca6ec7435b2468aabb41445991#rd)
@@ -194,6 +199,8 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 免费资料
 
+- [本周GitHub趋势榜领先的面试最后一问话术](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487421&idx=1&sn=3544052e5419e7736c2d38a9d7c712e2&chksm=fe1b0c8cc96c859a27cf4dda5b0068a930132f57f90129df0be9b6a9826eea1a615cd84abf0a#rd)
+- [元宵节，找点开源免费的学习资料，一起来提升下ECMAScript能力！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487403&idx=1&sn=d28d1c2e4fb8de9bbcb1e15cd609d750&chksm=fe1b0c9ac96c858cd091b21e4e72868cfc3a701a9d104f3996ef6fbe38aee95e5ac1d3ecff2b#rd)
 - [阿里云盘之资源大大大福利！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487180&idx=1&sn=b26c66a8c9f7aa50b16286fab1f546e3&chksm=fe1b0dfdc96c84eb8e3d2d7ac347eb504edc2f3308a9be98fc36f738984a60aca24b353fd8b1#rd)
 - [还在担心年终小结不好看？有了这些PPT模板一定让你的小结成为人群中最靓的崽！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486809&idx=1&sn=0c3869f6f8754c103a3690d1d0ee5995&chksm=fe1b0e68c96c877e83c723f72fb441348f74e80137851b16aa76e114f121a1796369cea675da#rd)
 - [西安一码通爆了之后，朋友推荐我去看这本在GitHub上有11k+Star的书](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486750&idx=1&sn=f41b5febfb9eeb22b99acddbc8503063&chksm=fe1b0e2fc96c8739b1b4d330f72b2ffa9bd3fec2084028f034ef80730e5ae10bc23b442384ff#rd)
