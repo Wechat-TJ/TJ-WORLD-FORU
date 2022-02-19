@@ -123,16 +123,16 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 游戏至上
 
-- [FlappyBird和2D迷宫，用JAVA怎么编写？ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486434&idx=1&sn=c71d6263cca5ebead160c27e6791ace0&chksm=fe1b08d3c96c81c5ff4f934f67a028ea7f528f560f1009a5d8d026430e3baf8fabffb678ee1e#rd)
-- [来学习开发一个网页版马里奥小游戏吧 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486351&idx=1&sn=195ab036f877d3c4d937319035a72cf6&chksm=fe1b08bec96c81a835ec5e94bd21965b3c6b0e38ded7b655a3539944d588ea0458c806a98396#rd)
-- [JAVA写出来的塔防能有多好玩？......真香！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485929&idx=1&sn=f95dd1c6603ab54c8da63643ec38a32a&chksm=fe1b0ad8c96c83cece822b7c6afa824d1dd1edbfd14454c41da916d4a72f12e63f271e239d4a#rd)
-- [13KB的代码能做什么？有些人可是弄出了一个完整的游戏！ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485866&idx=1&sn=22b0527cb249bab68d3fcf12c7a6ddb5&chksm=fe1b0a9bc96c838dd424c812fae886d1dd1e14187cfe14692b09ad550a0a5bb95c7e0f10936b#rd)
-- [还在玩暗黑2重置版？国外大神都自己开源复刻，赶紧来学学！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485560&idx=1&sn=48b5746dc5a047d309323a5e1dd72259&chksm=fe1b0b49c96c825f140f03caaad48d5cdffa3a1a39f1976572d4495abe978b65736ed9b00230#rd)
-- [人人都在玩得人生重开模拟器，开源代码献上！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484754&idx=1&sn=75af1b8db79a659a48eb90ee9eae3cb1&chksm=fe1b0663c96c8f75e58a3f31ead4a8f548e7c9ee517039a50b381766b4ebdfa155bf46438db2#rd)
-- [一款脑洞大开的汉字俄罗斯方块游戏！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484740&idx=1&sn=d3f4502f46ff04729f49738f10cd8f56&chksm=fe1b0675c96c8f63bb3a5a67bcdfe8c1a67d16ffa8760aa742d960f0c4ee6cf489e1bdf6dcab#rd)
-- [一转眼暑假就要过去了，你还记得当年陪你度过整个夏日的红白机吗？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484595&idx=1&sn=a1374679f58ac72c6eb944570a54985b&chksm=fe1b0782c96c8e94a89aeec8d973a16291f968a96a4e4b3f1bbe54a1593273f19c966ca55174#rd)
-- [飞雪连天射白鹿，笑书神侠倚碧鸳 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484529&idx=1&sn=c40dfb90d431881b4649bd36064cdc2c&chksm=fe1b0740c96c8e568b2b7e8bc0e0ad9736be2604d3a11daad40213e5fddb3d6ca6ca13e16f38#rd)
-- [打飞机也是这么的快乐！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484387&idx=1&sn=13cdcc38bfc7fdcf8b6ca2ff26c38246&chksm=fe1b00d2c96c89c4cd91e443e330aad3ba59f8e794b1c1a126ff98f02c64ca0556eec3d6d306#rd)
+- [FlappyBird和2D迷宫，用JAVA怎么编写？ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486434&idx=1&sn=c71d6263cca5ebead160c27e6791ace0&chksm=fe1b08d3c96c81c5ff4f934f67a028ea7f528f560f1009a5d8d026430e3baf8fabffb678ee1e#rd)(主要语言：Java、JavaScript，特征：迷宫、FlappyBird)
+- [来学习开发一个网页版马里奥小游戏吧 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486351&idx=1&sn=195ab036f877d3c4d937319035a72cf6&chksm=fe1b08bec96c81a835ec5e94bd21965b3c6b0e38ded7b655a3539944d588ea0458c806a98396#rd)(主要语言：TypeScript，特征：马里奥)
+- [JAVA写出来的塔防能有多好玩？......真香！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485929&idx=1&sn=f95dd1c6603ab54c8da63643ec38a32a&chksm=fe1b0ad8c96c83cece822b7c6afa824d1dd1edbfd14454c41da916d4a72f12e63f271e239d4a#rd)(主要语言：Java，特征：塔防)
+- [13KB的代码能做什么？有些人可是弄出了一个完整的游戏！ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485866&idx=1&sn=22b0527cb249bab68d3fcf12c7a6ddb5&chksm=fe1b0a9bc96c838dd424c812fae886d1dd1e14187cfe14692b09ad550a0a5bb95c7e0f10936b#rd)(主要语言：JavaScript，特征：横板过关、小)
+- [还在玩暗黑2重置版？国外大神都自己开源复刻，赶紧来学学！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485560&idx=1&sn=48b5746dc5a047d309323a5e1dd72259&chksm=fe1b0b49c96c825f140f03caaad48d5cdffa3a1a39f1976572d4495abe978b65736ed9b00230#rd)(主要语言：Go，特征：暗黑、复刻)
+- [人人都在玩得人生重开模拟器，开源代码献上！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484754&idx=1&sn=75af1b8db79a659a48eb90ee9eae3cb1&chksm=fe1b0663c96c8f75e58a3f31ead4a8f548e7c9ee517039a50b381766b4ebdfa155bf46438db2#rd)(主要语言：JavaScript，特征：人生模拟器、脑洞)
+- [一款脑洞大开的汉字俄罗斯方块游戏！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484740&idx=1&sn=d3f4502f46ff04729f49738f10cd8f56&chksm=fe1b0675c96c8f63bb3a5a67bcdfe8c1a67d16ffa8760aa742d960f0c4ee6cf489e1bdf6dcab#rd)(特征：俄罗斯方块、脑洞)
+- [一转眼暑假就要过去了，你还记得当年陪你度过整个夏日的红白机吗？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484595&idx=1&sn=a1374679f58ac72c6eb944570a54985b&chksm=fe1b0782c96c8e94a89aeec8d973a16291f968a96a4e4b3f1bbe54a1593273f19c966ca55174#rd)(主要语言：C++，特征：FC模拟器、复刻)
+- [飞雪连天射白鹿，笑书神侠倚碧鸳 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484529&idx=1&sn=c40dfb90d431881b4649bd36064cdc2c&chksm=fe1b0740c96c8e568b2b7e8bc0e0ad9736be2604d3a11daad40213e5fddb3d6ca6ca13e16f38#rd)(主要语言：C#，特征：金庸群侠传、重置)
+- [打飞机也是这么的快乐！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484387&idx=1&sn=13cdcc38bfc7fdcf8b6ca2ff26c38246&chksm=fe1b00d2c96c89c4cd91e443e330aad3ba59f8e794b1c1a126ff98f02c64ca0556eec3d6d306#rd)(主要语言：Python，特征：打飞机、复刻)
 
 
 # 效率软件
@@ -223,3 +223,5 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 - [这才是真正的网盘！速度飞快、容量无限、价格免费、没有广告打扰！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486444&idx=1&sn=024c4ceba6c0e91582650092a086f442&chksm=fe1b08ddc96c81cbc9754df835264c937ce6b7806258d92a84569dec44457ec118f9c14cc6af#rd)
 - [电子合同好工具，小微企业的福音](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486402&idx=1&sn=53aced518789f4a7c3fb0906510f240a&chksm=fe1b08f3c96c81e5d92f2c242a0745c12880d8c77936f782802c073f98354ab9fe61230876f3#rd)
+
+下一步计划，逐步完善分享内容标签，方便查找...
