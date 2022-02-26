@@ -41,6 +41,9 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 实战项目
 
+- [GitHub50K+Star的前后端分离的仿饿了么Vue大型单页面应用项目 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487494&idx=1&sn=6ba21e824772ebd18d02836b2f54de7d&chksm=fe1b1337c96c9a219b6ba736f6c7960c3382a43a82059f6e6a3f0f80db467bc3ef6c61f77674#rd)
+- [TypeScript全开发的开源聊天室项目 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487506&idx=1&sn=89d8d24f84939fea8e02bf8a4910e023&chksm=fe1b1323c96c9a3549f2040f22772a284556b3ca8bca0684fe632fef4e3feba98a36362783b5#rd)
+- [很少见的基于Spring Boot的现代化社区平台，还是100%开源的哦！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487553&idx=1&sn=57e0be4c216b7601edc5f5da44c74fb3&chksm=fe1b1370c96c9a6632ce5ef8e86dfec69a56429546aa2199bb9331561f854f86222cb8223d59#rd)
 - [分享一个Spring Boot + MyBatis Plus + Vue & Element的开源后台管理系统](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487359&idx=1&sn=82fc841a6b0addf17a195b74885e1589&chksm=fe1b0c4ec96c8558ba8c4624f7b04ef47088f30fbb92d399108cd549e25641e468c7e966b462#rd)
 - [基于Spring Cloud的微服务电商平台系统，这个项目手把手教你实现](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487267&idx=1&sn=263447f29334b56c26de78c6551703f8&chksm=fe1b0c12c96c85040abb7a18b7537e55a2abdd2a798a2bc1251bbeac6d1c4efcf5f435c578ce#rd)
 - [一个拿来即用的SpringBoot开源ERP系统，赶紧学习收藏了！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487048&idx=1&sn=008b91bc31097dc945c4ffb3429ef99a&chksm=fe1b0d79c96c846f0b7ba9ab3a6c37de2cfa9f1ed8ed4b842db94a62d81dde41ec4d57e09ddf#rd)
@@ -76,6 +79,9 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 黑科技 
 
+- [隔离在家，程序员如何使用公式来做菜？一起来看看吧 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487470&idx=1&sn=247cab4c82d1fbd8cf435d604e4bb6ce&chksm=fe1b0cdfc96c85c9d111da6115add6dc8881b082fec7709714b212f4c618c04c19ad5a922f2a#rd)
+- [快速上传超大EXCEL的JAVA处理开源工具，从此告别内存溢出 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487536&idx=1&sn=69bc4210261acbd72bc6f8f05adfd62b&chksm=fe1b1301c96c9a1746e1a3b16658dc8cb2670b01f505b9988e68f674bb76f4b9af2cf15104ad#rd)
+- [低代码可视化报表开源工具，只要在线拖拽就能做出复杂数据报表 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487566&idx=1&sn=a0072bc650e96a29915f5f8444f9faf2&chksm=fe1b137fc96c9a6956b6f1a081ff1500d195cf8dac12ed41448aa88e9afabb1793947ea12a3b#rd)
 - [程序猿情人节专用项目大集合~ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487392&idx=1&sn=8c3ed9913e0ff24c957cb81ce13a0bd6&chksm=fe1b0c91c96c858799c2f31047c198e73b577768ca261099d4791cb0d2468ab88064139aa40f#rd)
 - [可能是GitHub上最好用的文字语法校验工具](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487280&idx=1&sn=a33add94b6500b1b0ccb2a2649f81896&chksm=fe1b0c01c96c8517ecc8878b98d040d49ecc5b604c414afb0417107f660d04fb0fa4dbabfa6f#rd)
 - [实用！开源！生成朋友圈转发点赞截图小工具一枚！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487246&idx=1&sn=e7fa236be07111ae5726f4deb10793fe&chksm=fe1b0c3fc96c85298a5c7ff2dbdd915d2e5a722c0e17bc182a70ca550d2d93cfb257f9b602f0#rd)
@@ -199,6 +205,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 免费资料
 
+- [全网最详细的二线以上城市互联网环境及生活成本大揭秘！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487525&idx=1&sn=d805a7db457bac42e0f001fa6eab3b0a&chksm=fe1b1314c96c9a02d4663fb6ca6bf11905c5394adc118162db3291f057fddf55f1a40e4f0654#rd)
 - [本周GitHub趋势榜领先的面试最后一问话术](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487421&idx=1&sn=3544052e5419e7736c2d38a9d7c712e2&chksm=fe1b0c8cc96c859a27cf4dda5b0068a930132f57f90129df0be9b6a9826eea1a615cd84abf0a#rd)
 - [元宵节，找点开源免费的学习资料，一起来提升下ECMAScript能力！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487403&idx=1&sn=d28d1c2e4fb8de9bbcb1e15cd609d750&chksm=fe1b0c9ac96c858cd091b21e4e72868cfc3a701a9d104f3996ef6fbe38aee95e5ac1d3ecff2b#rd)
 - [阿里云盘之资源大大大福利！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487180&idx=1&sn=b26c66a8c9f7aa50b16286fab1f546e3&chksm=fe1b0dfdc96c84eb8e3d2d7ac347eb504edc2f3308a9be98fc36f738984a60aca24b353fd8b1#rd)
