@@ -24,20 +24,20 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 高颜值
 
-- [高颜值的桌面悬浮监控工具一枚](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487337&idx=1&sn=1331120bcd4e38f07e3a55850ed3d815&chksm=fe1b0c58c96c854eeff3a8c0dcf152fced6dad5cc631871a19423cb61389a2a30b3e364c934b#rd)
+- [高颜值的桌面悬浮监控工具一枚](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487337&idx=1&sn=1331120bcd4e38f07e3a55850ed3d815&chksm=fe1b0c58c96c854eeff3a8c0dcf152fced6dad5cc631871a19423cb61389a2a30b3e364c934b#rd)(主要语言：C++，特征：系统使用情况悬浮监控、好看)
 - [冰墩墩项目大集合](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487297&idx=1&sn=f1997f7e91304af34f19dd02633e031c&chksm=fe1b0c70c96c85662a6c514d59e0aa005391a99dac71d1fea9a996834592e4d9b6bf796ab36b#rd)
-- [年关将至，专为中文设计的排版样式，用了之后越看越舒服](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486996&idx=1&sn=98b69461dc68957d819fe689e2aa47b0&chksm=fe1b0d25c96c84335d467be48d7ed50c458cfcfbb18d87e3c47d62c435e84d4e924b368f1e6d#rd)
-- [圣诞夜，让你的代码都变成圣诞树吧！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486518&idx=1&sn=cb6f7f8f552735f5f55bf4fd80857c58&chksm=fe1b0f07c96c8611fe393cae5ea0cf721c8ac4a1beebc704373636a75e45fa7d8e5379259484#rd)
-- [没看过这个开源项目你就不知道代码究竟能有多好看](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486504&idx=1&sn=ce218889166aae8bc69d28123ff8fab5&chksm=fe1b0f19c96c860f8beafc69636f16a51d70d3dccc75a0e47597e2ec79aaad1e331b32a071cd#rd)
-- [开源的任务管理工具，可以很好看功能可以很强大！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486470&idx=1&sn=49bb4002d771e9822e7e6269598216b3&chksm=fe1b0f37c96c8621dff4854e818183c86ce978227027eb2113a5e6892e69aef07d21db9e1720#rd)
-- [一款美轮美奂的JavaScript 小项目](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486191&idx=1&sn=947404f0362b24e03843d929b2f7017a&chksm=fe1b09dec96c80c8431865b1cc03f4aa9e9ab85cd691e7ba399d1c2dc3b7153d135be7085c13#rd)
-- [免费开源、操作简洁、功能完善、暗黑风格，还有什么理由拒绝这款SSH工具？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486145&idx=1&sn=b888e26f1046a4fa0c3ad580e13c0bad&chksm=fe1b09f0c96c80e67c810ddd10247dabc6cc11825de5ae415047a01097f9bb38a5707c7ef9e9#rd)
-- [学习如何使用JavaScript 生成各种好看的头像！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486103&idx=1&sn=72062a0c3adaec69e99b0ac5f277d79c&chksm=fe1b09a6c96c80b0ce90bd7d7d5b6f3c18a133aaf7810aeac7187af29c045f235ccdbc6c45bd#rd)
-- [十万伏特！让你的操作终端变成宝可梦！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485606&idx=1&sn=f959f05c1e02e7f2f0c3f9239fafe165&chksm=fe1b0b97c96c8281347a88dfd1b016ea0adb8d6ee48c48a959869d330aaa2fc2b6f47639992d#rd)
-- [渐变国旗微信头像来袭，不用你就OUT了！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485194&idx=1&sn=0f033ae253b46f21d92b86b8317b6c5e&chksm=fe1b043bc96c8d2d2fd2ab1d08639fc28d764838cbe8fe9cce501bb526c2ffa781429245b9d7#rd)
-- [报表能做到多好看？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485136&idx=1&sn=477c4d004337157ac67c468514715550&chksm=fe1b05e1c96c8cf7150467dd7d950b30b6cac8c6ff11a5af29c3edb6875e14b7e597de011a05#rd)
-- [开源Redis可视化客户端工具，用过的人都说好看又好用！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484989&idx=1&sn=04210a574d844af53da4c6af408f34d6&chksm=fe1b050cc96c8c1af87cd60274f8b17c16eae18a9d40394dbd301c378f4c32e3a32a773048da#rd)
-- [AI人脸生成器，帅哥美女让你一次看个够！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484287&idx=1&sn=fc10232d80549a02456ac26eb8acee4b&chksm=fe1b004ec96c895855eb2dad8e13c2594eba3b9f78d58f42a686e8e7fbb79a840ec41a7afa54#rd)
+- [年关将至，专为中文设计的排版样式，用了之后越看越舒服](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486996&idx=1&sn=98b69461dc68957d819fe689e2aa47b0&chksm=fe1b0d25c96c84335d467be48d7ed50c458cfcfbb18d87e3c47d62c435e84d4e924b368f1e6d#rd)(主要语言：HTML、JavaScript，特征：专为中文内容展示设计的排版样式增强)
+- [圣诞夜，让你的代码都变成圣诞树吧！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486518&idx=1&sn=cb6f7f8f552735f5f55bf4fd80857c58&chksm=fe1b0f07c96c8611fe393cae5ea0cf721c8ac4a1beebc704373636a75e45fa7d8e5379259484#rd)(主要语言：JavaScript，特征：圣诞节专用)
+- [没看过这个开源项目你就不知道代码究竟能有多好看](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486504&idx=1&sn=ce218889166aae8bc69d28123ff8fab5&chksm=fe1b0f19c96c860f8beafc69636f16a51d70d3dccc75a0e47597e2ec79aaad1e331b32a071cd#rd)(主要语言：JavaScript，特征：美化代码查阅环境)
+- [开源的任务管理工具，可以很好看功能可以很强大！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486470&idx=1&sn=49bb4002d771e9822e7e6269598216b3&chksm=fe1b0f37c96c8621dff4854e818183c86ce978227027eb2113a5e6892e69aef07d21db9e1720#rd)(主要语言：PHP，特征：美化任务管理界面)
+- [一款美轮美奂的JavaScript 小项目](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486191&idx=1&sn=947404f0362b24e03843d929b2f7017a&chksm=fe1b09dec96c80c8431865b1cc03f4aa9e9ab85cd691e7ba399d1c2dc3b7153d135be7085c13#rd)(主要语言：TypeScript，特征：美化鼠标触摸效果)
+- [免费开源、操作简洁、功能完善、暗黑风格，还有什么理由拒绝这款SSH工具？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486145&idx=1&sn=b888e26f1046a4fa0c3ad580e13c0bad&chksm=fe1b09f0c96c80e67c810ddd10247dabc6cc11825de5ae415047a01097f9bb38a5707c7ef9e9#rd)(主要语言：JavaScript，特征：简洁风格)
+- [学习如何使用JavaScript 生成各种好看的头像！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486103&idx=1&sn=72062a0c3adaec69e99b0ac5f277d79c&chksm=fe1b09a6c96c80b0ce90bd7d7d5b6f3c18a133aaf7810aeac7187af29c045f235ccdbc6c45bd#rd)(主要语言：Vue、TypeScript，特征：个性化头像)
+- [十万伏特！让你的操作终端变成宝可梦！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485606&idx=1&sn=f959f05c1e02e7f2f0c3f9239fafe165&chksm=fe1b0b97c96c8281347a88dfd1b016ea0adb8d6ee48c48a959869d330aaa2fc2b6f47639992d#rd)(主要语言：Python，特征：跟宝可梦一样可爱)
+- [渐变国旗微信头像来袭，不用你就OUT了！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485194&idx=1&sn=0f033ae253b46f21d92b86b8317b6c5e&chksm=fe1b043bc96c8d2d2fd2ab1d08639fc28d764838cbe8fe9cce501bb526c2ffa781429245b9d7#rd)(特征：爱国情怀)
+- [报表能做到多好看？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485136&idx=1&sn=477c4d004337157ac67c468514715550&chksm=fe1b05e1c96c8cf7150467dd7d950b30b6cac8c6ff11a5af29c3edb6875e14b7e597de011a05#rd)(特征：做出好看的报表)
+- [开源Redis可视化客户端工具，用过的人都说好看又好用！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484989&idx=1&sn=04210a574d844af53da4c6af408f34d6&chksm=fe1b050cc96c8c1af87cd60274f8b17c16eae18a9d40394dbd301c378f4c32e3a32a773048da#rd)(主要语言：JavaScript，特征：好看)
+- [AI人脸生成器，帅哥美女让你一次看个够！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484287&idx=1&sn=fc10232d80549a02456ac26eb8acee4b&chksm=fe1b004ec96c895855eb2dad8e13c2594eba3b9f78d58f42a686e8e7fbb79a840ec41a7afa54#rd)(主要语言：Python，特征：逼真的帅哥美女脸)
 
 ## 实战项目
 
