@@ -163,6 +163,8 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 浏览器插件
 
+- [开源JSON格式化插件](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487596&idx=1&sn=35359fe5eb8e7cd18f95a95744865b6a&chksm=fe1b135dc96c9a4be541b10b4aedc9d047799212147f4d672f71feea245bbf3f437d7dc3d889#rd)
+- [悄悄上微信，开源的摸鱼神器插件 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487658&idx=1&sn=0a326b2f8277d5abec8f463880ee13f4&chksm=fe1b139bc96c9a8dd18b8102c96b45cf8cc4e0d429511c759da9dc047ea06d732d0b20b7b066#rd)
 - [一个可以让你保持专注，用心生活，专心工作的绿色插件 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487371&idx=1&sn=63bbdc27ae2c058528281996524edb9c&chksm=fe1b0cbac96c85acd5bbd44481a84375487d94d527fa3d8ee3aa1d5994dd76f01024b1cc5e1c#rd)
 - [GitHub万星开源插件，音乐迷的福音，教你如何在浏览器中解锁歌曲](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487072&idx=1&sn=38899592761f6eeaf8bf467fc0289df4&chksm=fe1b0d51c96c8447839de6e6b9b18b61de06b403c57bfaf8067eaffede8bd0fbb06bb5ef9c76#rd)
 - [吊炸天的个性化卡片式标签页插件，谁用谁知道！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486961&idx=1&sn=2c567705a210369178edeba12170918e&chksm=fe1b0ec0c96c87d6e6cc2abc8b2e336b9e6decb21df2d94aeb6c1264ac7b1cd111384012d264#rd)
@@ -182,6 +184,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 编码助手
 
+- [Navicat被投毒之后，数据库管理工具该如何选择？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487634&idx=1&sn=602133a6820edf97dbc7522034549aef&chksm=fe1b13a3c96c9ab5c7b69b57662154498141546421936f698d01a8c6e994cb6643729fb60103#rd)
 - [拿过大奖，使用MarkDown语法，究竟是怎么样的开源图表绘制工具？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487454&idx=1&sn=9bc2469d06069c3d9b8a5c43da3faaff&chksm=fe1b0cefc96c85f951cc6ccc56d760407b3eb314985629f6aa15c3ed140aecd58dd4026a45e4#rd)
 - [测试没做好？看看这个一站式开源测试平台MeterSphere](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487434&idx=1&sn=35f4c4b6b91fd5ee9610db495a8bb2d9&chksm=fe1b0cfbc96c85eddb51a24df5a5862fe259dfb14ec1413588c54d4856c1c460311919518427#rd)
 - [Mybatis自动生成工具，开发编码好帮手](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487193&idx=1&sn=eb66b9ec3a359beaa809a2010e57406a&chksm=fe1b0de8c96c84fed972ec95f59463ceb0a4d0317a98c4950d1c4d480bd447d08af4bd8721a8#rd)
@@ -205,6 +208,9 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 免费资料
 
+- [通过对比语法差异，让会JAVA的你快速学会Kotlin的开源宝藏项目 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487604&idx=1&sn=ca348d7a5529d26784baccf22015e13d&chksm=fe1b1345c96c9a53238f65c1b1c9f6f300799724426779b24abaa8f7e59412c710258ed97180#rd)
+- [开发做的好，产品无人识？来看看这个乌克兰小姐姐的产品营销分享心得吧 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487644&idx=1&sn=984a2f7c4f743b6e32b4232a7021ed47&chksm=fe1b13adc96c9abb7ab94a5e1fedc2aa697977fd9b39b6a43422881a5e9c16de57749d11fb23#rd)
+- [无论你在学什么语言，都能有小姐姐来陪着你一起学习？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487684&idx=1&sn=b674f5a652d870d1c3f4a789be11f736&chksm=fe1b13f5c96c9ae3bb3c8390d054a9b45ce8793b3cadb094f0517819c9acf91c557b86c7ae86#rd)
 - [全网最详细的二线以上城市互联网环境及生活成本大揭秘！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487525&idx=1&sn=d805a7db457bac42e0f001fa6eab3b0a&chksm=fe1b1314c96c9a02d4663fb6ca6bf11905c5394adc118162db3291f057fddf55f1a40e4f0654#rd)
 - [本周GitHub趋势榜领先的面试最后一问话术](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487421&idx=1&sn=3544052e5419e7736c2d38a9d7c712e2&chksm=fe1b0c8cc96c859a27cf4dda5b0068a930132f57f90129df0be9b6a9826eea1a615cd84abf0a#rd)
 - [元宵节，找点开源免费的学习资料，一起来提升下ECMAScript能力！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487403&idx=1&sn=d28d1c2e4fb8de9bbcb1e15cd609d750&chksm=fe1b0c9ac96c858cd091b21e4e72868cfc3a701a9d104f3996ef6fbe38aee95e5ac1d3ecff2b#rd)
@@ -228,6 +234,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 免费工具
 
+- [写一个好的简历很难吗？看完这几个工具就不会觉得难啦](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487586&idx=1&sn=6519a9035e2580f6532c13bef33668ea&chksm=fe1b1353c96c9a45f20f4814db070837454f17d33177998401ce5cc8570f180cc567bb9f1004#rd)
 - [这才是真正的网盘！速度飞快、容量无限、价格免费、没有广告打扰！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486444&idx=1&sn=024c4ceba6c0e91582650092a086f442&chksm=fe1b08ddc96c81cbc9754df835264c937ce6b7806258d92a84569dec44457ec118f9c14cc6af#rd)
 - [电子合同好工具，小微企业的福音](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486402&idx=1&sn=53aced518789f4a7c3fb0906510f240a&chksm=fe1b08f3c96c81e5d92f2c242a0745c12880d8c77936f782802c073f98354ab9fe61230876f3#rd)
 
