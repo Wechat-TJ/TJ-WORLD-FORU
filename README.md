@@ -145,21 +145,21 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## IDEA插件
 
-- [程序员鼓励师插件？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486849&idx=1&sn=5acdb63236083f0f520dbfb97057205c&chksm=fe1b0eb0c96c87a6f3f00fc642e3afff1767c1cbea925832e054280473f97505e201c9df46e1#rd)
-- [File Expander，让你能在IDEA里直接查阅Jar包压缩包内容！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486837&idx=1&sn=49a4dcc8f7d34f2331fc4d4de68cd12c&chksm=fe1b0e44c96c875267652f15e6a74beaf7395a8ef2dfddf372b3c620697573810ad29d060b05#rd)
-- [一款插件，让摸鱼变得如此简单，聊QQ聊微信怎么看都像是在工作](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486765&idx=1&sn=c23423ed73c60f8b5403b1f81a12f4c4&chksm=fe1b0e1cc96c870a80dc323c25b1c6229d9091a456aa73c85f0ca09cda4a496daaa32f41b544#rd)
-- [想直接在 IDEA 里面快乐的刷刷LeetCode算法题吗？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486629&idx=1&sn=705b6cbd40de4cace6c7ef1cfd676e2b&chksm=fe1b0f94c96c868203870994e72dba18808857c8fef70d63b3a7c17d8b3b70c7725a19a2ac28#rd)
-- [TJ君给你推荐的IDEA插件汇总合集！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486258&idx=1&sn=1f90ca21496f130a5ec1d9ef6568d1dc&chksm=fe1b0803c96c81151894f832e85374aff59cda2fab1cc91fd42bb85f71de776599bb00449c28#rd)
-- [快读定位代码位置的IDEA小插件](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486238&idx=1&sn=b9ef03ddcf8f5d6cdf5666f9bf83d13c&chksm=fe1b082fc96c81397debfa1c4bf51cf14aeeae1db47f9d36ae89f523ec743a6200e4364319a7#rd)
-- [一个专业处理字符串的IDEA插件 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486214&idx=1&sn=fdfcb17dd8b7150d1f698ee6d8d06a7f&chksm=fe1b0837c96c81215b2eaa31c4be6ccd42cf8b2fb50d9d570fd2797a80d2a8778ede1d9646c3#rd)
-- [IDEA有哪些快捷键操作？这款插件教你融会贯通所有！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486065&idx=1&sn=ddc154059f50c173043c8f9d7afe039e&chksm=fe1b0940c96c80567b29896e5fd4cc3c20792eaaf653b1c58a1bcd3a9328db41f3d85deb226a#rd)
-- [这款IDEA插件，可以让你用中文编码哟 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485952&idx=1&sn=13c1b9cd93c48ba0d28046c0a747154a&chksm=fe1b0931c96c80278d2536f48a4440f69522f59797c415c1f9777a1a68b520ccaee8d860ce58#rd)
-- [两款自动检测代码工具与插件，开源真香 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485830&idx=1&sn=cb70715405af4bdb60fcc4bcf0d3da82&chksm=fe1b0ab7c96c83a151e123908fb02a8d549ea9e0a23755ba09e34cabd8c8750d82a1aed7e0de#rd)
-- [IDEA高颜值之最吸引小姐姐插件集合！让你成为人群中最靓的那个崽！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485816&idx=1&sn=1cfbb0de0e2fc4611a8177bfac3f9ec6&chksm=fe1b0a49c96c835faaf6e6e131754d3a07048f92efe60d425449d6be74453fb8ec840b2335c8#rd)
-- [IDEA中文字符自动转换插件，再也不用担心程序因为中文字符报错了](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485640&idx=1&sn=83667b9391f5fb0be56db577c835d75e&chksm=fe1b0bf9c96c82ef3ae33c256e1438ebb209da5ff12fe32d395b72535191e9e2e6dae0316380#rd)
-- [IDEA编码自动注释工具，让你的开发更有效率](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485629&idx=1&sn=59023e1ade813be1f8ddd74bfa805a99&chksm=fe1b0b8cc96c829a0b2a88932b804c45bd0750831b325071d81a909264caebc5a5cd563d8096#rd)
-- [一款让你轻松在IDEA画图的插件](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485276&idx=1&sn=e12a453e59785a644af71ea896b86b38&chksm=fe1b046dc96c8d7b6e592217b13805cb3f1966a39f83d7b584e476614333d63da6b6ad166ce4#rd)
-- [一做就做一天，这天天做谁受得了](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484402&idx=1&sn=445d75962d333124c89a0a6dccd252ba&chksm=fe1b00c3c96c89d5a32d13e5b032eeb36dcc6d02509aaccc1538377ebb83ed15e0db3f0f2d2a#rd)
+- [程序员鼓励师插件？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486849&idx=1&sn=5acdb63236083f0f520dbfb97057205c&chksm=fe1b0eb0c96c87a6f3f00fc642e3afff1767c1cbea925832e054280473f97505e201c9df46e1#rd)(特征：编码时会根据编码内容有对应的语音鼓励)
+- [File Expander，让你能在IDEA里直接查阅Jar包压缩包内容！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486837&idx=1&sn=49a4dcc8f7d34f2331fc4d4de68cd12c&chksm=fe1b0e44c96c875267652f15e6a74beaf7395a8ef2dfddf372b3c620697573810ad29d060b05#rd)(特征：直接查阅Jar包压缩包内容)
+- [一款插件，让摸鱼变得如此简单，聊QQ聊微信怎么看都像是在工作](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486765&idx=1&sn=c23423ed73c60f8b5403b1f81a12f4c4&chksm=fe1b0e1cc96c870a80dc323c25b1c6229d9091a456aa73c85f0ca09cda4a496daaa32f41b544#rd)(特征：在IDEA里面使用qq和微信)
+- [想直接在 IDEA 里面快乐的刷刷LeetCode算法题吗？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486629&idx=1&sn=705b6cbd40de4cace6c7ef1cfd676e2b&chksm=fe1b0f94c96c868203870994e72dba18808857c8fef70d63b3a7c17d8b3b70c7725a19a2ac28#rd)(特征：在IDEA里面刷LeetCode算法题)
+- [TJ君给你推荐的IDEA插件汇总合集！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486258&idx=1&sn=1f90ca21496f130a5ec1d9ef6568d1dc&chksm=fe1b0803c96c81151894f832e85374aff59cda2fab1cc91fd42bb85f71de776599bb00449c28#rd)(特征：一个多款插件小合集)
+- [快读定位代码位置的IDEA小插件](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486238&idx=1&sn=b9ef03ddcf8f5d6cdf5666f9bf83d13c&chksm=fe1b082fc96c81397debfa1c4bf51cf14aeeae1db47f9d36ae89f523ec743a6200e4364319a7#rd)(特征：增加代码缩略导航图，就像word里面的导航窗格一样)
+- [一个专业处理字符串的IDEA插件 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486214&idx=1&sn=fdfcb17dd8b7150d1f698ee6d8d06a7f&chksm=fe1b0837c96c81215b2eaa31c4be6ccd42cf8b2fb50d9d570fd2797a80d2a8778ede1d9646c3#rd)(特征：各种字符格式进行处理的插件)
+- [IDEA有哪些快捷键操作？这款插件教你融会贯通所有！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486065&idx=1&sn=ddc154059f50c173043c8f9d7afe039e&chksm=fe1b0940c96c80567b29896e5fd4cc3c20792eaaf653b1c58a1bcd3a9328db41f3d85deb226a#rd)(特征：提示各种快捷键的插件)
+- [这款IDEA插件，可以让你用中文编码哟 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485952&idx=1&sn=13c1b9cd93c48ba0d28046c0a747154a&chksm=fe1b0931c96c80278d2536f48a4440f69522f59797c415c1f9777a1a68b520ccaee8d860ce58#rd)(特征：可以直接使用中文进行编码)
+- [两款自动检测代码工具与插件，开源真香 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485830&idx=1&sn=cb70715405af4bdb60fcc4bcf0d3da82&chksm=fe1b0ab7c96c83a151e123908fb02a8d549ea9e0a23755ba09e34cabd8c8750d82a1aed7e0de#rd)(特征：自动检测代码的插件)
+- [IDEA高颜值之最吸引小姐姐插件集合！让你成为人群中最靓的那个崽！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485816&idx=1&sn=1cfbb0de0e2fc4611a8177bfac3f9ec6&chksm=fe1b0a49c96c835faaf6e6e131754d3a07048f92efe60d425449d6be74453fb8ec840b2335c8#rd)(特征：彩虹进度条、背景自定义、编码打字效果、高亮提示)
+- [IDEA中文字符自动转换插件，再也不用担心程序因为中文字符报错了](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485640&idx=1&sn=83667b9391f5fb0be56db577c835d75e&chksm=fe1b0bf9c96c82ef3ae33c256e1438ebb209da5ff12fe32d395b72535191e9e2e6dae0316380#rd)(特征：智能自动转换中文字符)
+- [IDEA编码自动注释工具，让你的开发更有效率](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485629&idx=1&sn=59023e1ade813be1f8ddd74bfa805a99&chksm=fe1b0b8cc96c829a0b2a88932b804c45bd0750831b325071d81a909264caebc5a5cd563d8096#rd)(特征：智能自动增加注释)
+- [一款让你轻松在IDEA画图的插件](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247485276&idx=1&sn=e12a453e59785a644af71ea896b86b38&chksm=fe1b046dc96c8d7b6e592217b13805cb3f1966a39f83d7b584e476614333d63da6b6ad166ce4#rd)(特征：通过文本内容自动生成各类流程图、对象图)
+- [一做就做一天，这天天做谁受得了](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247484402&idx=1&sn=445d75962d333124c89a0a6dccd252ba&chksm=fe1b00c3c96c89d5a32d13e5b032eeb36dcc6d02509aaccc1538377ebb83ed15e0db3f0f2d2a#rd)(特征：久坐提示)
 
 ## 浏览器插件
 
