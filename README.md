@@ -41,6 +41,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 实战项目
 
+- [基于Vite + Vue3 + NaiveUI + TypeScript的中后台管理模块，开源免费，漂亮](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487702&idx=1&sn=db02e26c8ba124c2f055a7bf3fa04e12&chksm=fe1b13e7c96c9af1df63be9ccd154121d5da6771a4560821782a7eb5521bb838baea80eaf0a2#rd)
 - [GitHub50K+Star的前后端分离的仿饿了么Vue大型单页面应用项目 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487494&idx=1&sn=6ba21e824772ebd18d02836b2f54de7d&chksm=fe1b1337c96c9a219b6ba736f6c7960c3382a43a82059f6e6a3f0f80db467bc3ef6c61f77674#rd)
 - [TypeScript全开发的开源聊天室项目 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487506&idx=1&sn=89d8d24f84939fea8e02bf8a4910e023&chksm=fe1b1323c96c9a3549f2040f22772a284556b3ca8bca0684fe632fef4e3feba98a36362783b5#rd)
 - [很少见的基于Spring Boot的现代化社区平台，还是100%开源的哦！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487553&idx=1&sn=57e0be4c216b7601edc5f5da44c74fb3&chksm=fe1b1370c96c9a6632ce5ef8e86dfec69a56429546aa2199bb9331561f854f86222cb8223d59#rd)
@@ -79,6 +80,10 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 黑科技 
 
+- [功能超丰富的开源视频播放器GSYVideoPlayer](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487743&idx=1&sn=d849b3fd47f3ecfe3b7b301a58d4fec0&chksm=fe1b13cec96c9ad84fb65d96551924ed5b3ee291f10087026d6e33fd7389cf6261fd0719958c#rd)
+- [开源的PDF文件处理工具箱，让你玩转PDF文件不求人~](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487731&idx=1&sn=98691116dbdd5e9bece80e935c56ce88&chksm=fe1b13c2c96c9ad40f6ec7ae2ff585a435f3de84fe5222d107a849ea57d36b8e703e851d1e1f#rd)
+- [女神节专用的开源项目两枚~ ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487722&idx=1&sn=506dd28f4dc5920979b598c6b7b167e2&chksm=fe1b13dbc96c9acd68cb7603ad67faff9b45d247cd80408e61a233769a36cfe61f75ff8dbbbc#rd)
+- [一款开源快速，节省磁盘空间的新一代包管理工具PNPM](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487713&idx=1&sn=bc1fdce25a8357db0ae228c7896e2576&chksm=fe1b13d0c96c9ac62d61d625a84e4427be943f7350d1b974961a162b61731546d826c1790f79#rd)
 - [隔离在家，程序员如何使用公式来做菜？一起来看看吧 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487470&idx=1&sn=247cab4c82d1fbd8cf435d604e4bb6ce&chksm=fe1b0cdfc96c85c9d111da6115add6dc8881b082fec7709714b212f4c618c04c19ad5a922f2a#rd)
 - [快速上传超大EXCEL的JAVA处理开源工具，从此告别内存溢出 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487536&idx=1&sn=69bc4210261acbd72bc6f8f05adfd62b&chksm=fe1b1301c96c9a1746e1a3b16658dc8cb2670b01f505b9988e68f674bb76f4b9af2cf15104ad#rd)
 - [低代码可视化报表开源工具，只要在线拖拽就能做出复杂数据报表 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487566&idx=1&sn=a0072bc650e96a29915f5f8444f9faf2&chksm=fe1b137fc96c9a6956b6f1a081ff1500d195cf8dac12ed41448aa88e9afabb1793947ea12a3b#rd)
@@ -184,6 +189,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 编码助手
 
+- [实用的汉字拼音转换工具 ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487754&idx=1&sn=2e16fbde934e83fee24aaab178cf6183&chksm=fe1b123bc96c9b2db8c133a409c247f6329bb33373f987b27f946f300aab30fa3f898d3fd2b6#rd)
 - [Navicat被投毒之后，数据库管理工具该如何选择？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487634&idx=1&sn=602133a6820edf97dbc7522034549aef&chksm=fe1b13a3c96c9ab5c7b69b57662154498141546421936f698d01a8c6e994cb6643729fb60103#rd)
 - [拿过大奖，使用MarkDown语法，究竟是怎么样的开源图表绘制工具？](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487454&idx=1&sn=9bc2469d06069c3d9b8a5c43da3faaff&chksm=fe1b0cefc96c85f951cc6ccc56d760407b3eb314985629f6aa15c3ed140aecd58dd4026a45e4#rd)
 - [测试没做好？看看这个一站式开源测试平台MeterSphere](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487434&idx=1&sn=35f4c4b6b91fd5ee9610db495a8bb2d9&chksm=fe1b0cfbc96c85eddb51a24df5a5862fe259dfb14ec1413588c54d4856c1c460311919518427#rd)
@@ -234,6 +240,7 @@ TJ君专门给小伙伴准备开源项目与工具的小世界，TJ君会根据G
 
 ## 免费工具
 
+- [新一代生产力工具，让你的效率UP!UP!UP! ](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487774&idx=1&sn=7cac0fe8a0b2fe31e0adef593c5d61b3&chksm=fe1b122fc96c9b3930fb1314252bcd04c314dc4fc8e602f0bc36eb05b3aa11d16d8d1220300e#rd)
 - [写一个好的简历很难吗？看完这几个工具就不会觉得难啦](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247487586&idx=1&sn=6519a9035e2580f6532c13bef33668ea&chksm=fe1b1353c96c9a45f20f4814db070837454f17d33177998401ce5cc8570f180cc567bb9f1004#rd)
 - [这才是真正的网盘！速度飞快、容量无限、价格免费、没有广告打扰！](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486444&idx=1&sn=024c4ceba6c0e91582650092a086f442&chksm=fe1b08ddc96c81cbc9754df835264c937ce6b7806258d92a84569dec44457ec118f9c14cc6af#rd)
 - [电子合同好工具，小微企业的福音](https://mp.weixin.qq.com/s?__biz=MzU5Mjc5NTIzMA==&mid=2247486402&idx=1&sn=53aced518789f4a7c3fb0906510f240a&chksm=fe1b08f3c96c81e5d92f2c242a0745c12880d8c77936f782802c073f98354ab9fe61230876f3#rd)
